@@ -1,6 +1,6 @@
 # Agentra Multi‑Modal Fact Checker
 Features implemented:
-- Inputs: text, image, audio, video, or URL (auto-extract text via readability).
+- Inputs: text, (image, audio, video, or URL (auto-extract text via readability): comming soon ...).
 - Preprocess: OCR (Tesseract), audio transcription (OpenAI), video keyframes (OpenCV), initial summarization.
 - Claim extraction & query planning (GPT‑5).
 - Retrieval: Brave Search only (with whitelist + caching).
