@@ -34,7 +34,7 @@ In today’s **generative AI era**—where deepfakes, synthetic media, and AI-ge
 
 ---
 
-## 🔍 Why GPT-5 Is Essential  
+## 🔍   
 - **Multi-modal parsing** → Understands text, images, and video **simultaneously**  
 - **Advanced reasoning** → Weighs conflicting evidence in structured debates  
 - **Long-context handling** → Processes transcripts, large evidence sets, and multi-claim documents  
